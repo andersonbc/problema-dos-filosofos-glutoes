@@ -1,4 +1,4 @@
-# problema-dos-filosofos-glutoes
+# Problema dos filosofos glutões
 Implementação para a atividade acadêmica de sistemas operacionais
 
 
